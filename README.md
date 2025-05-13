@@ -1,2 +1,3 @@
 # c-linked-list
-full implementation of all possible functions that run on linked lists
+en: full implementation of all possible functions that run on linked lists
+fr: code des operations sur liste simplement chainé selon ISI Ariana
