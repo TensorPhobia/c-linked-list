@@ -348,6 +348,7 @@ void linkedList_pushback(linkedList *l , node_t *node){
     node->nxt = NULL;
     l->len+=1;
     l->tail->nxt = node;
+    l->tail = node;
 }
 
 void linkedList_insert(linkedList *l , node_t *node , unsigned index){
